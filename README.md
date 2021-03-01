@@ -13,7 +13,7 @@ $ cd nlw4_api
 ```
 
 **Running**
-> Installing dependencies
+> Install dependencies
 
 ```bash
 $ yarn
